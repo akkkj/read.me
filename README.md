@@ -59,8 +59,8 @@
 
 <h2 align="center">Profile Discord</h2><br>
   <p align="center">
-    <a href="https://discord.gg/k5zEBn7yNU">
-        <img title="Bronkz discord" alt="Bronkz discord" src="https://media.discordapp.net/attachments/944094963602427904/958258559206973450/unknown.png?width=378&height=226"/>
+    <a href="https://discord.gg/cosmicc">
+        <img title="Bronkz discord" alt="Bronkz discord" src="![image](https://user-images.githubusercontent.com/100034871/164985504-14ac12d0-6075-482a-8663-e41695ee3b24.png)width=378&height=226"/>
     </a>
 </p>
 
