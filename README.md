@@ -3,7 +3,7 @@
   
 <p align="center">
   
-### Hi ! I'm xz, Game Bug Researcher and social Engineer; primarily interested in linux development and low-level programming.
+### Hi ! xz, Game Bug Researcher and social Engineer; primarily interested in linux development and low-level programming.
 <div align="center">
   <a href="https://github.com/akkkj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BronkzDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,11 +20,6 @@
 
   
   
-</p>
-<p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
-</p>
-
 
 <h2 align="center">Programming languages that i mainly use.</h2>
 <p align="center">
@@ -46,7 +41,7 @@
 <h2 align="center">- For any other request -</h2>
 
 <p align="center">Server Discord: https://discord.gg/cosmicc
-  <p align="center">My WebSite: off.
+  <p align="center">WebSite: off.
 </pre><br>
 
 
@@ -60,6 +55,4 @@
 </p>
 
 
-<!---
-BronkzDev/BronkzDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+<
