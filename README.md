@@ -29,7 +29,6 @@
 <h2 align="center">Programming languages that i mainly use.</h2>
 <p align="center">
   <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Your alt what" height= "50" width="50" align/> 
-  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Your alt what" height= "50" width="50" align/>   
   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Your alt what" height= "50" width="50" align/>  
   <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="Your alt what" height= "50" width="50" align/>
   <img alt=".LUA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt="Your alt what" height= "50" width="50" align/>
@@ -37,10 +36,6 @@
 
 
 
-<h2 align="center">My github profile stastictics.</h2>
-</p><br>
-<a href="https://github.com/akkkj"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trick7v&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
-  
 
 <h2 align="center">- Developer by private -</h2>
 <h4 align="center">Contact me</h4>
