@@ -3,9 +3,9 @@
   
 <p align="center">
   
-### Hi ! I'm Bronkz, Game Bug Researcher and Reverse Engineer; primarily interested in Windows kernel development and low-level programming.
+### Hi ! I'm xz, Game Bug Researcher and social Engineer; primarily interested in linux development and low-level programming.
 <div align="center">
-  <a href="https://github.com/BronkzDev">
+  <a href="https://github.com/akkkj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BronkzDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -39,7 +39,7 @@
 
 <h2 align="center">My github profile stastictics.</h2>
 </p><br>
-<a href="https://github.com/BronkzDev"><img alt="Bronkz Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BronkzDev&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/akkkj"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trick7v&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
 
 <h2 align="center">- Developer by private -</h2>
